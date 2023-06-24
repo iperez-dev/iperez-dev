@@ -41,21 +41,37 @@ Creative, detail-oriented, software developer with a proven track record of crea
 ### 🏅 Giving Back
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [Code For Hope](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers 
-- [Open Source](https://ba-cruise-facilities.netlify.app/) - Bermello Ajamil Cruise Terminal Design Portfolio 
-- [Volunteering](https://apex-builders.netlify.app/) - Construction company website 
+- [Code For Hope](https://ba-ai.netlify.app/) - I teach and mentor students in their journey as software engineers
+- [Open Source](https://ba-cruise-facilities.netlify.app/) - Regular contributions to open source 
+- [Volunteering](https://apex-builders.netlify.app/) - Local church website
 <!-- LATEST-PROJECT-LIST:END -->
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: About Me</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/GH-Event-Demos/random-name-picker/issues/35) in [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker)
-2. 💪 Opened PR [#4](https://github.com/mongodb-developer/mdblinks/pull/4) in [mongodb-developer/mdblinks](https://github.com/mongodb-developer/mdblinks)
-3. ❗ Opened issue [#3](https://github.com/mongodb-developer/mdblinks/issues/3) in [mongodb-developer/mdblinks](https://github.com/mongodb-developer/mdblinks)
-4. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+1. 🗣 Experienced software developer with a focus on:
+   - MongoDB
+   - Express
+   - React
+   - NodeJS
+   - JavaScript
+   - Tailwind
+   - CSS
+   - HTML
+2. 💪 Ai experience at BA & Partners:
+   - Develop AI software to automate internal company processes using Langchain, Python, and web APIs.
+   - Assist architects and engineers with the integration of AI software into their practices.
+3. ❗ Ten years of web design experience:
+   - SEO
+   - WordPress
+   - Figma
+   - Photoshop
+   - and others
+4. ❗ Founder of Code for Hope:
+   - Train minority students to become software engineers. We learn in-demand tech skills such as HTML, CSS, JavaScript, MongoDB, Express, React, NodeJS, GitHub, and others.
+   - Organize our weekly meetup group where we discuss relevant tech topics and current projects.
 <!--END_SECTION:activity-->
 
 </details>

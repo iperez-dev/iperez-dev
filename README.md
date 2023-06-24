@@ -41,7 +41,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 ### 🏅 Giving Back
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [Code For Hope](https://ba-ai.netlify.app/) - I teach and mentor students in their journey as software engineers
+- [Code For Hope](https://ba-ai.netlify.app/) - I teach and mentor minority students in their journey as software engineers
 - [Open Source](https://ba-cruise-facilities.netlify.app/) - Regular contributions to open source 
 - [Volunteering](https://apex-builders.netlify.app/) - Local church website
 <!-- LATEST-PROJECT-LIST:END -->
@@ -70,7 +70,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
    - Photoshop
    - and others
 4. ❗ Founder of Code for Hope:
-   - Train minority students to become software engineers. We learn in-demand tech skills such as HTML, CSS, JavaScript, MongoDB, Express, React, NodeJS, GitHub, and others.
+   - I teach and mentor minority students in their journey as software engineers. We learn in-demand tech skills such as HTML, CSS, JavaScript, MongoDB, Express, React, NodeJS, GitHub, and others.
    - Organize our weekly meetup group where we discuss relevant tech topics and current projects.
 <!--END_SECTION:activity-->
 

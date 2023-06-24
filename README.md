@@ -35,7 +35,6 @@ Creative, detail-oriented, software developer with a proven track record of crea
 - [Brito Tax](https://brito-tax.netlify.app/) - Accounting company website 
 - [Essential Elements](https://essentialelements.netlify.app/) - Luxury glass collection website 
 <!-- LATEST-PROJECT-LIST:END -->
-<br />
 
 ---
 

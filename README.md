@@ -31,9 +31,9 @@ Creative, detail-oriented, software developer with a proven track record of crea
 ### 🏆 Latest Projects
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [B&Ai Navigator](https://ba-ai.netlify.app/)
-- [BA Cruise Terminals](https://ba-cruise-facilities.netlify.app/)
-- [Apex Builders](https://apex-builders.netlify.app/)
-- [Brito Tax](https://brito-tax.netlify.app/)
-- [Essential Elements](https://essentialelements.netlify.app/)
+- [B&Ai Navigator] - Ai knowledge hub for architects and engineers (https://ba-ai.netlify.app/)
+- [BA Cruise Terminals] - Bermello Ajamil Cruise Terminal Design Portfolio (https://ba-cruise-facilities.netlify.app/)
+- [Apex Builders] - Construction company website (https://apex-builders.netlify.app/)
+- [Brito Tax] - Accounting company website (https://brito-tax.netlify.app/)
+- [Essential Elements] - Luxury glass collection website (https://essentialelements.netlify.app/)
 <!-- LATEST-PROJECT-LIST:END -->

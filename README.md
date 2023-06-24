@@ -41,9 +41,9 @@ Creative, detail-oriented, software developer with a proven track record of crea
 ### 🏅 Giving Back
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [Code For Hope](https://ba-ai.netlify.app/) - I teach and mentor minority students in their journey as software engineers
-- [Open Source](https://ba-cruise-facilities.netlify.app/) - Regular contributions to open source 
-- [Volunteering](https://apex-builders.netlify.app/) - Local church website
+- [Code For Hope](#) - I teach and mentor minority students in their journey as software engineers
+- [Open Source](#) - Regular contributions to open source 
+- [Volunteering](#) - Local church website
 <!-- LATEST-PROJECT-LIST:END -->
 ---
 
@@ -51,6 +51,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
   <summary>:zap: About Me</summary>
   
 <!--START_SECTION:activity-->
+
 1. 🗣 Experienced software developer with a focus on:
    - MongoDB
    - Express
@@ -60,15 +61,18 @@ Creative, detail-oriented, software developer with a proven track record of crea
    - Tailwind
    - CSS
    - HTML
+   - 
 2. 💪 Ai experience at BA & Partners:
    - Develop AI software to automate internal company processes using Langchain, Python, and web APIs.
    - Assist architects and engineers with the integration of AI software into their practices.
+   - 
 3. ❗ Ten years of web design experience:
    - SEO
    - WordPress
    - Figma
    - Photoshop
    - and others
+   - 
 4. ❗ Founder of Code for Hope:
    - I teach and mentor minority students in their journey as software engineers. We learn in-demand tech skills such as HTML, CSS, JavaScript, MongoDB, Express, React, NodeJS, GitHub, and others.
    - Organize our weekly meetup group where we discuss relevant tech topics and current projects.

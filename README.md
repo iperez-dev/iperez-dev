@@ -46,8 +46,6 @@ Creative, detail-oriented, software developer with a proven track record of crea
 
 <!-- LATEST-PROJECT-LIST:START -->
 - [Code For Hope](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers 
-- [BA Cruise Terminals](https://ba-cruise-facilities.netlify.app/) - Bermello Ajamil Cruise Terminal Design Portfolio 
-- [Apex Builders](https://apex-builders.netlify.app/) - Construction company website 
-- [Brito Tax](https://brito-tax.netlify.app/) - Accounting company website 
-- [Essential Elements](https://essentialelements.netlify.app/) - Luxury glass collection website 
+- [Open Source](https://ba-cruise-facilities.netlify.app/) - Bermello Ajamil Cruise Terminal Design Portfolio 
+- [Volunteering](https://apex-builders.netlify.app/) - Construction company website 
 <!-- LATEST-PROJECT-LIST:END -->

@@ -28,4 +28,4 @@ Creative, detail-oriented, software developer with a proven track record of crea
 
 ---
 
-### 👨‍💻 Latest Projects
+### 💡 Latest Projects

@@ -29,3 +29,11 @@ Creative, detail-oriented, software developer with a proven track record of crea
 ---
 
 ### 🏆 Latest Projects
+
+<!-- LATEST-PROJECT-LIST:START -->
+- [B&Ai Navigator](https://ba-ai.netlify.app/)
+- [BA Cruise Terminals](https://ba-cruise-facilities.netlify.app/)
+- [Apex Builders](https://apex-builders.netlify.app/)
+- [Brito Tax](https://brito-tax.netlify.app/)
+- [Essential Elements](https://essentialelements.netlify.app/)
+<!-- LATEST-PROJECT-LIST:END -->

@@ -9,7 +9,6 @@ Creative, detail-oriented, software developer with a proven track record of crea
 - 🏅 Here is a link to my [Professional Portfolio](https://iperez-dev.netlify.app/)
 - 🌱 I’m currently learning Ai Development
 - 🏋 I’m looking to join a extraordinary engineering team
-<br />
 
 ### 🧰 Languages and Tools
 

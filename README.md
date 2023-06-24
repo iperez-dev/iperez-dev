@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan Perez 👋 
 
-**`Software Developer / UI Designer`**
+**`Full-stack Software Developer / Web Designer`**
 
 
 Creative, detail-oriented, software developer with a proven track record of creating full-stack web applications using the MERN stack. I am looking to bring my skills and experience to a tech company with global reach.

@@ -36,6 +36,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 - [Essential Elements](https://essentialelements.netlify.app/) - Luxury glass collection website 
 <!-- LATEST-PROJECT-LIST:END -->
 <br />
+
 ---
 
 ### 🏅 Giving Back

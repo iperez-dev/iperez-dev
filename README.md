@@ -7,7 +7,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 - 🔭 I’m currently working at [Bermello Ajamil and Partners](https://ba-cruise-facilities.netlify.app/)
 - 🔭 Here is a link to my [Professional Portfolio](https://iperez-dev.netlify.app/)
 - 🌱 I’m currently learning Ai Development
-- 👯 I’m looking to collaborate on Ai Develop
+- 👯 I’m looking to join a extraordinary engineering team
 
 ### 🧰 Languages and Tools
 

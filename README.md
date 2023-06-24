@@ -10,8 +10,6 @@ Creative, detail-oriented, software developer with a proven track record of crea
 - 🌱 I’m currently learning Ai Development
 - 🏋 I’m looking to join a extraordinary engineering team
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-
 ### 🧰 Languages and Tools
 
 
@@ -42,7 +40,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 <!-- LATEST-PROJECT-LIST:END -->
 <br />
 <br />
-
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 ---
 
 ### 🏅 Giving Back

@@ -64,7 +64,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
    - HTML
 
 2. 🛸 Ai experience at BA & Partners:
-   - Develop AI software to automate internal company processes using Langchain, Python, and web APIs.
+   - Develop AI software to automate internal company processes using Langchain, Python, and web APIs. 
    - Assist architects and engineers with the integration of AI software into their practices.
 
 3. 🚀 Ten years of web design experience:

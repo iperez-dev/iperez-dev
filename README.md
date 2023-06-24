@@ -5,8 +5,9 @@
 Creative, detail-oriented, software developer with a proven track record of creating full-stack web applications using the MERN stack. I am looking to bring my skills and experience to a tech company with global reach.
 
 - 🔭 I’m currently working at [Bermello Ajamil and Partners](https://ba-cruise-facilities.netlify.app/)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Here is a link to my [Professional Portfolio](https://iperez-dev.netlify.app/)
+- 🌱 I’m currently learning Ai Development
+- 👯 I’m looking to collaborate on Ai Develop
 
 ### 🧰 Languages and Tools
 

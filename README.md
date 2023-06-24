@@ -52,6 +52,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
   
 <!--START_SECTION:activity-->
 
+
 1. 🗣 Experienced software developer with a focus on:
    - MongoDB
    - Express
@@ -61,18 +62,18 @@ Creative, detail-oriented, software developer with a proven track record of crea
    - Tailwind
    - CSS
    - HTML
-   - 
+
 2. 💪 Ai experience at BA & Partners:
    - Develop AI software to automate internal company processes using Langchain, Python, and web APIs.
    - Assist architects and engineers with the integration of AI software into their practices.
-   - 
+
 3. ❗ Ten years of web design experience:
    - SEO
    - WordPress
    - Figma
    - Photoshop
    - and others
-   - 
+
 4. ❗ Founder of Code for Hope:
    - I teach and mentor minority students in their journey as software engineers. We learn in-demand tech skills such as HTML, CSS, JavaScript, MongoDB, Express, React, NodeJS, GitHub, and others.
    - Organize our weekly meetup group where we discuss relevant tech topics and current projects.

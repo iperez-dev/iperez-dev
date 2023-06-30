@@ -41,7 +41,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 ### 🏅 Giving Back
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [Code For Hope](#) - I teach and mentor minority students in their journey as software engineers
+- [Code For Hope](#) - I teach and mentor students in their journey as software engineers
 - [Open Source](#) - Regular contributions to open source 
 - [Volunteering](#) - Local church website
 <!-- LATEST-PROJECT-LIST:END -->

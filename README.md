@@ -58,7 +58,9 @@ market sectors with seven offices around the world.
   
 <!--START_SECTION:activity-->
 
-Creative, detail-oriented, software developer with a proven track record of creating full-stack web applications using the MERN stack. I am looking to bring my skills and experience to a tech company with global reach.
+
+I am a creative, detail-oriented, software developer with a proven track record of creating full-stack web applications using the MERN stack. I am looking to bring my skills and experience to a tech company with global reach.
+
 
 1. 💻 Experienced software developer with a focus on:
    - MongoDB

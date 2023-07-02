@@ -47,8 +47,8 @@ market sectors with seven offices around the world.
 ### 🌱 Giving Back
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [Code For Hope](#) - I teach and mentor students in their journey as software engineers
-- [Open Source](#) - Regular contributions to open source 
+- [Code For Hope](#) - I teach and mentor minority students in their journey as software engineers
+- [Open Source](#) - Regular contributions to open source projects 
 - [Volunteering](#) - Local church website
 <!-- LATEST-PROJECT-LIST:END -->
 ---

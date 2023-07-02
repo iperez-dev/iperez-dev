@@ -35,7 +35,7 @@ market sectors with seven offices around the world.
 
 ---
 
-### 🏆 Team Projects
+### 🏆 Other Team Projects
 
 <!-- LATEST-PROJECT-LIST:START -->
 - [Apex Builders](https://apex-builders.netlify.app/) - Construction company website. 

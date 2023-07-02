@@ -30,7 +30,7 @@ market sectors with seven offices around the world.
 <!-- LATEST-PROJECT-LIST:START -->
 - [BA Client Hub](https://ba-ai.netlify.app/) - Web app intended to facilitate collaboration between clients and BA architects.
 - [BAi Navigator](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers at BA.
-- [BA Cruise Terminal Porfolio](https://ba-cruise-facilities.netlify.app/) - BA Cruise Terminal Design Portfolio. 
+- [BA Cruise Terminal Porfolio](https://ba-cruise-facilities.netlify.app/) - BA Cruise Terminal Portfolio. 
 <!-- LATEST-PROJECT-LIST:END -->
 
 ---

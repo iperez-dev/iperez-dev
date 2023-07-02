@@ -29,7 +29,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 
 <!-- LATEST-PROJECT-LIST:START -->
 - [BA Client Hub](https://ba-ai.netlify.app/) - Web app intended to facilitate collaboration between clients and BA architects.
-- [B&Ai Navigator](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers at BA.
+- [BAi Navigator](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers at BA.
 - [BA Cruise Terminal Porfolio](https://ba-cruise-facilities.netlify.app/) - BA Cruise Terminal Design Portfolio. 
 <!-- LATEST-PROJECT-LIST:END -->
 

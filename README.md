@@ -25,7 +25,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 <br />
 
 ---
-### 🏆 Work Experience at BA
+### 🏅 Work Experience at BA
 
 <!-- LATEST-PROJECT-LIST:START -->
 - [BA Client Hub](https://ba-ai.netlify.app/) - Web app intended to facilitate collaboration between clients and BA architects.
@@ -47,7 +47,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 
 ---
 
-### 🏅 Giving Back
+### 🌱 Giving Back
 
 <!-- LATEST-PROJECT-LIST:START -->
 - [Code For Hope](#) - I teach and mentor students in their journey as software engineers

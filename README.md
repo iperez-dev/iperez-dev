@@ -2,7 +2,7 @@
 
 **`Full-stack Software Developer / Web Designer`**
 
-- 🚢 Full-stack software developer at Bermello Ajamil and Partners (BA)
+- 🚢 I’m currently working as a full-stack software developer at BA
 - 🏅 Here is a link to my [Developer Portfolio](https://iperez-dev.netlify.app/)
 - 🌱 I’m currently diving deep into Ai technology
 - 🏋 I’m looking to join an extraordinary engineering team

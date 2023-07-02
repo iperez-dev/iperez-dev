@@ -70,7 +70,7 @@ I am a creative, detail-oriented, software developer with a proven track record 
    - CSS
    - HTML
 
-2. 🛸 Ai experience at BA & Partners:
+2. 🛸 Ai experience at BA:
    - Develop AI software to automate internal company processes using Langchain, Python, and web APIs. 
    - Assist architects and engineers with the integration of AI software into their practices.
 

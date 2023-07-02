@@ -2,8 +2,8 @@
 
 **`Full-stack Software Developer / Web Designer`**
 
-- 🚢 Full-stack software developer at [BA & Partners](https://ba-cruise-facilities.netlify.app/)
-- 🏅 Here is a link to my [Portfolio](https://iperez-dev.netlify.app/)
+- 🚢 Full-stack software developer at Bermello Ajamil and Partners (BA)
+- 🏅 Here is a link to my [Developer Portfolio](https://iperez-dev.netlify.app/)
 - 🌱 I’m currently diving deep into Ai technology
 - 🏋 I’m looking to join an extraordinary engineering team
 

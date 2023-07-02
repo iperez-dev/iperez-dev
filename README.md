@@ -25,14 +25,12 @@ Creative, detail-oriented, software developer with a proven track record of crea
 <br />
 
 ---
-### 🏆 Work Experience
+### 🏆 Work Experience at BA
 
 <!-- LATEST-PROJECT-LIST:START -->
+- [BA CLient Hub](https://ba-ai.netlify.app/) - Web app intended to facilitate collaboration between clients and BA architects.
 - [B&Ai Navigator](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers at BA.
 - [BA Cruise Terminals](https://ba-cruise-facilities.netlify.app/) - Bermello Ajamil Cruise Terminal Design Portfolio. 
-- [Apex Builders](https://apex-builders.netlify.app/) - Construction company website. 
-- [Brito Tax](https://brito-tax.netlify.app/) - Accounting company website. 
-- [Essential Elements](https://essentialelements.netlify.app/) - Luxury glass collection website. 
 <!-- LATEST-PROJECT-LIST:END -->
 
 ---

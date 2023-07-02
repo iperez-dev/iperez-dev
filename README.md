@@ -2,13 +2,10 @@
 
 **`Full-stack Software Developer / Web Designer`**
 
-
-Creative, detail-oriented, software developer with a proven track record of creating full-stack web applications using the MERN stack. I am looking to bring my skills and experience to a tech company with global reach.
-
 - 🚢 Full-stack software developer at [BA & Partners](https://ba-cruise-facilities.netlify.app/)
 - 🏅 Here is a link to my [Portfolio](https://iperez-dev.netlify.app/)
 - 🌱 I’m currently diving deep into Ai technology
-- 🏋 I’m looking to join a extraordinary engineering team
+- 🏋 I’m looking to join an extraordinary engineering team
 
 ### 🧰 Languages and Tools
 
@@ -26,6 +23,9 @@ Creative, detail-oriented, software developer with a proven track record of crea
 
 ---
 ### 🏅 Work Experience at BA
+
+BA is an international, full-service Architectural and Engineering firm serving various
+market sectors with seven offices around the world.
 
 <!-- LATEST-PROJECT-LIST:START -->
 - [BA Client Hub](https://ba-ai.netlify.app/) - Web app intended to facilitate collaboration between clients and BA architects.
@@ -58,6 +58,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
   
 <!--START_SECTION:activity-->
 
+Creative, detail-oriented, software developer with a proven track record of creating full-stack web applications using the MERN stack. I am looking to bring my skills and experience to a tech company with global reach.
 
 1. 💻 Experienced software developer with a focus on:
    - MongoDB

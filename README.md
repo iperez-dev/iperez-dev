@@ -86,4 +86,5 @@ I am a creative, detail-oriented, software developer with a proven track record 
    - Organize our weekly meetup group where we discuss relevant tech topics and current projects.
 <!--END_SECTION:activity-->
 
+
 </details>

@@ -2,9 +2,9 @@
 
 **`Full-stack Software Developer / Web Designer`**
 
-- 🚢 I’m currently working as a full-stack software developer at BA
-- 🏅 Here is a link to my [Developer Portfolio](https://iperez-dev.netlify.app/)
-- 🌱 I’m currently diving deep into Ai technology
+- 🚢 I’m a full-stack software developer at BA
+- 🏅 Here is a link to my [Portfolio](https://iperez-dev.netlify.app/)
+- 🌱 I’m specialize in the MERN stack
 - 🏋 I’m looking to join an extraordinary engineering team
 
 ### 🧰 Languages and Tools

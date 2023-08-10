@@ -4,7 +4,7 @@
 
 - 🚢 I’m a full-stack software developer at BA
 - 🏅 Here is a link to my [Portfolio](https://iperez-dev.netlify.app/)
-- 🌱 I’m specialize in the MERN stack
+- 🌱 I specialize in the MERN stack
 - 🏋 I’m looking to join an extraordinary engineering team
 
 ### 🧰 Languages and Tools

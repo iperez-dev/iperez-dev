@@ -2,7 +2,7 @@
 
 **`Full-stack Software Developer`**
 
-- 🚢 I’m a full-stack software developer at BA
+- 🚢 I’m a full-stack software developer at Bermello Ajamil & Partners (BA)
 - 🏅 Here is a link to my [Portfolio](https://iperezportfolio.netlify.app/)
 - 🌱 Strong experience in JavaScript with a emphasis on React, Node.js, Express, and MongoDB
 - 🏋️ Targeting front-end and back-end specific roles.

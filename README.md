@@ -4,7 +4,7 @@
 
 - 🚢 I’m a full-stack software developer at BA
 - 🏅 Here is a link to my [Portfolio](https://iperezportfolio.netlify.app/)
-- 🌱 Experience in JavaScript with a strong emphasis on React, Node.js, Express, and MongoDB
+- 🌱 Strong experience in JavaScript with a emphasis on React, Node.js, Express, and MongoDB
 - 🏋️ Targeting front-end and back-end specific roles.
 
 ### 🧰 Languages and Tools

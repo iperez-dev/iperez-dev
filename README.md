@@ -2,9 +2,9 @@
 
 **`Full-stack Software Developer`**
 
-- 🚢 I’m a full-stack software developer at Bermello Ajamil & Partners (BA)
-- 🏅 Here is a link to my [Portfolio](https://iperezportfolio.netlify.app/)
-- 🌱 Strong experience in JavaScript with a emphasis on React, Node.js, Express, and MongoDB
+- 🚢 I’m a full-stack software developer at Bermello Ajamil & Partners (BA).
+- 🏅 Here is a link to my [Portfolio](https://iperezportfolio.netlify.app/).
+- 🌱 Strong experience in JavaScript with a emphasis on React, Node.js, Express, and MongoDB.
 - 🏋️ Targeting front-end and back-end specific roles.
 
 ### 🧰 Languages and Tools
@@ -29,6 +29,13 @@ market sectors with seven offices around the world.
 
 <!-- LATEST-PROJECT-LIST:START -->
 - [BA Client Hub](https://ba-ai.netlify.app/) - Web app intended to facilitate collaboration between clients and BA architects.
+Developed BAi Vision Portal (MVP):
+• Developed the full-stack app using MongoDB, Express, EJS, and Node.js.
+• Contributed to 3% of the company's annual revenue and 36% reduction
+in architectural design time.
+• Delivered MVP three weeks ahead of schedule, providing BA with a
+competitive advantage.
+- 
 - [BAi Navigator](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers at BA.
 - [BA Cruise Terminal Porfolio](https://ba-cruise-facilities.netlify.app/) - BA Cruise Terminal Portfolio. 
 <!-- LATEST-PROJECT-LIST:END -->

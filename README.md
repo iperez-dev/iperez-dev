@@ -1,11 +1,10 @@
 # Hi there, I'm Ivan Perez 👋 
 
-**`Full-stack Software Developer / Web Designer`**
+**`Full-stack Software Developer`**
 
 - 🚢 I’m a full-stack software developer at BA
-- 🏅 Here is a link to my [Portfolio](https://iperez-dev.netlify.app/)
-- 🌱 I specialize in the MERN stack
-- 🏋 I’m looking to join an extraordinary engineering team
+- 🏅 Here is a link to my [Portfolio](https://iperezportfolio.netlify.app/)
+- 🌱 Full Stack Web Developer with over 10 years of experience in the technology industry, including 4 years in JavaScript with a strong emphasis on React, Node.js, Express, and MongoDB, targeting front-end and back-end specific roles.
 
 ### 🧰 Languages and Tools
 

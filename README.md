@@ -56,7 +56,7 @@ applications and tools.</li>
 
 <!-- LATEST-PROJECT-LIST:START -->
 [Brito Tax](https://britotax.com/)
-<li>Implemented contact, signup form, and booking calendar.</li>
+<li>Implemented contact form, signup form, and booking calendar.</li>
 <li>Enhanced website speed and performance by 23%.</li>
 <li>Implemented technical SEO strategies, increasing client base by 16%.</li>
 </br>

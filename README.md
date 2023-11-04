@@ -28,10 +28,9 @@ BA is an international, full-service Architectural and Engineering firm serving 
 market sectors with seven offices around the world.
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [BAi Vision Portal (MVP)](https://bermelloajamil.com/bai-vision-portal/)
-  <ul>
-    <li> Developed the full-stack app using MongoDB, Express, EJS, and Node.js.</li>
-  </ul>
+[BAi Vision Portal (MVP)](https://bermelloajamil.com/bai-vision-portal/)
+<li> Developed the full-stack app using MongoDB, Express, EJS, and Node.js.</li>
+
 
 • Contributed to 3% of the company's annual revenue and 36% reduction
 in architectural design time.

@@ -35,6 +35,7 @@ in architectural design time.</li>
 <li> Delivered MVP three weeks ahead of schedule, providing BA with a
 competitive advantage.</li>
 </br>
+
 [BA Cruise Facilities Portfolio](https://ba-cruise-facilities.netlify.app/terminal-a.html)
 <li>Consistently met strict project deadlines, ensuring timely release of
 crucial updates.</li>

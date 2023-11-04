@@ -35,9 +35,13 @@ in architectural design time.</li>
 <li> Delivered MVP three weeks ahead of schedule, providing BA with a
 competitive advantage.</li>
 
+[BA Cruise Facilities Portfolio](https://ba-cruise-facilities.netlify.app/terminal-a.html)
+<li>Consistently met strict project deadlines, ensuring timely release of
+crucial updates.</li>
+<li>Enhanced website performance, reducing load times by 18%.</li>
+<li>Implemented SEO strategies, boosting organic traffic by 42%.</li>
 
 
-- 
 - [BAi Navigator](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers at BA.
 - [BA Cruise Terminal Porfolio](https://ba-cruise-facilities.netlify.app/) - BA Cruise Terminal Portfolio. 
 <!-- LATEST-PROJECT-LIST:END -->

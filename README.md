@@ -34,13 +34,13 @@ market sectors with seven offices around the world.
 in architectural design time.</li>
 <li> Delivered MVP three weeks ahead of schedule, providing BA with a
 competitive advantage.</li>
-
+</br>
 [BA Cruise Facilities Portfolio](https://ba-cruise-facilities.netlify.app/terminal-a.html)
 <li>Consistently met strict project deadlines, ensuring timely release of
 crucial updates.</li>
 <li>Enhanced website performance, reducing load times by 18%.</li>
 <li>Implemented SEO strategies, boosting organic traffic by 42%.</li>
-
+</br>
 
 [BAi Navigator](https://bai-navigator.netlify.app/)
 <li>Developed BAI Navigator, a comprehensive internal repository of AI
@@ -48,7 +48,7 @@ applications and tools.</li>
 <li>Achieved a 95% client satisfaction rate based on project feedback.</li>
 <li>Improved user session duration by 15% after revamping website's UI.</li>
 <!-- LATEST-PROJECT-LIST:END -->
-
+</br>
 ---
 
 ### 🏆 Other Team Projects

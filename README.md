@@ -30,12 +30,13 @@ market sectors with seven offices around the world.
 <!-- LATEST-PROJECT-LIST:START -->
 [BAi Vision Portal (MVP)](https://bermelloajamil.com/bai-vision-portal/)
 <li> Developed the full-stack app using MongoDB, Express, EJS, and Node.js.</li>
+<li> Contributed to 3% of the company's annual revenue and 36% reduction
+in architectural design time.</li>
+<li> Delivered MVP three weeks ahead of schedule, providing BA with a
+competitive advantage.</li>
 
 
-• Contributed to 3% of the company's annual revenue and 36% reduction
-in architectural design time.
-• Delivered MVP three weeks ahead of schedule, providing BA with a
-competitive advantage.
+
 - 
 - [BAi Navigator](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers at BA.
 - [BA Cruise Terminal Porfolio](https://ba-cruise-facilities.netlify.app/) - BA Cruise Terminal Portfolio. 

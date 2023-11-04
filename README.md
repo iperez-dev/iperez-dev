@@ -28,9 +28,11 @@ BA is an international, full-service Architectural and Engineering firm serving 
 market sectors with seven offices around the world.
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [BA Client Hub](https://ba-ai.netlify.app/) - Web app intended to facilitate collaboration between clients and BA architects.
-Developed BAi Vision Portal (MVP):
-• Developed the full-stack app using MongoDB, Express, EJS, and Node.js.
+- [BAi Vision Portal (MVP)](https://bermelloajamil.com/bai-vision-portal/)
+  <ul>
+    <li>• Developed the full-stack app using MongoDB, Express, EJS, and Node.js.</li>
+  </ul>
+
 • Contributed to 3% of the company's annual revenue and 36% reduction
 in architectural design time.
 • Delivered MVP three weeks ahead of schedule, providing BA with a

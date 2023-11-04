@@ -30,7 +30,7 @@ market sectors with seven offices around the world.
 <!-- LATEST-PROJECT-LIST:START -->
 - [BAi Vision Portal (MVP)](https://bermelloajamil.com/bai-vision-portal/)
   <ul>
-    <li>• Developed the full-stack app using MongoDB, Express, EJS, and Node.js.</li>
+    <li> Developed the full-stack app using MongoDB, Express, EJS, and Node.js.</li>
   </ul>
 
 • Contributed to 3% of the company's annual revenue and 36% reduction

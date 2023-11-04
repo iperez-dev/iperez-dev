@@ -55,8 +55,11 @@ applications and tools.</li>
 ### 🏆 Other Team Projects
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [Apex Builders](https://apex-builders.netlify.app/) - Construction company website. 
-- [Essential Elements](https://essentialelements.netlify.app/) - Luxury glass collection website. 
+[Brito Tax](https://britotax.com/)
+<li>Implemented contact, signup form, and booking calendar.</li>
+<li>Enhanced website speed and performance by 23%.</li>
+<li>Implemented technical SEO strategies, increasing client base by 16%.</li>
+</br>
 <!-- LATEST-PROJECT-LIST:END -->
 
 ---

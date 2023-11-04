@@ -42,8 +42,11 @@ crucial updates.</li>
 <li>Implemented SEO strategies, boosting organic traffic by 42%.</li>
 
 
-- [BAi Navigator](https://ba-ai.netlify.app/) - Ai knowledge hub for architects and engineers at BA.
-- [BA Cruise Terminal Porfolio](https://ba-cruise-facilities.netlify.app/) - BA Cruise Terminal Portfolio. 
+[BAi Navigator](https://bai-navigator.netlify.app/)
+<li>Developed BAI Navigator, a comprehensive internal repository of AI
+applications and tools.</li>
+<li>Achieved a 95% client satisfaction rate based on project feedback.</li>
+<li>Improved user session duration by 15% after revamping website's UI.</li>
 <!-- LATEST-PROJECT-LIST:END -->
 
 ---

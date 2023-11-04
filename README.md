@@ -93,7 +93,7 @@ exceptional engineering team.
    - CSS
    - HTML
 
-2. 🚀 UX/UI Design Experience:
+2. 🚀 UX/UI Design Experience (8+ years):
    - WordPress
    - Figma
    - Sketch

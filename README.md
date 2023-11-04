@@ -78,9 +78,12 @@ applications and tools.</li>
   
 <!--START_SECTION:activity-->
 <br />
-I am a creative, detail-oriented, software developer with a proven track record of creating full-stack web applications using the MERN stack. I am looking to bring my skills and experience to a tech company with global reach.
+Full Stack Web Developer with over 10 years of experience in the technology
+industry. Including 4+ years in JavaScript with a strong emphasis on React,
+Node.js, and Express. Looking to bring my skills and experience to an
+exceptional engineering team.
 
-1. 💻 Experienced software developer with a focus on:
+1. 💻 Full-stack Web Developer Experience (4+ years):
    - MongoDB
    - Express
    - React
@@ -90,19 +93,19 @@ I am a creative, detail-oriented, software developer with a proven track record 
    - CSS
    - HTML
 
-2. 🛸 Ai experience at BA:
-   - Develop AI software to automate internal company processes using Langchain, Python, and web APIs. 
-   - Assist architects and engineers with the integration of AI software into their practices.
-
-3. 🚀 Ten years of web design experience:
-   - SEO
+2. 🚀 UX/UI Design Experience:
    - WordPress
    - Figma
+   - Sketch
+   - Adobe XD
    - Photoshop
+   - After Efect
+   - Illustrator
    - and others
 
 4. 🌱 Founder of Code for Hope:
-   - I teach and mentor minority students in their journey as software engineers. We learn in-demand tech skills such as HTML, CSS, JavaScript, MongoDB, Express, React, NodeJS, GitHub, and others.
+   - Mentor minority students in their journey as full-stack software developers.
+   - Teach on-demand tech skills such as HTML, CSS, JavaScript, MongoDB, Express, React, NodeJS, GitHub, and others.
    - Organize our weekly meetup group where we discuss relevant tech topics and current projects.
 <!--END_SECTION:activity-->
 

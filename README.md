@@ -52,7 +52,7 @@ applications and tools.</li>
 </br>
 ---
 
-### 🏆 Other Team Projects
+### 🏆 Additional Work Experience
 
 <!-- LATEST-PROJECT-LIST:START -->
 [Brito Tax](https://britotax.com/)

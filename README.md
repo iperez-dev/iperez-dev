@@ -67,9 +67,9 @@ applications and tools.</li>
 ### 🌱 Giving Back
 
 <!-- LATEST-PROJECT-LIST:START -->
-- [Code For Hope](#) - I teach and mentor minority students in their journey as software engineers
-- [Open Source](#) - Regular contributions to open source projects 
-- [Volunteering](#) - Local church website
+- [Code For Hope](#) - Mentor minority students in their journey as full-stack software developers.
+- [Open Source](#) - Regular contributions to open source projects.
+- [Volunteering](#) - Contribute to the development of my local church's website.
 <!-- LATEST-PROJECT-LIST:END -->
 ---
 

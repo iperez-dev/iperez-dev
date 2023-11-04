@@ -108,7 +108,7 @@ exceptional engineering team.
 4. 🌱 Founder of Code for Hope:
    - Mentor minority students in their journey as full-stack software developers.
    - Teach on-demand tech skills such as HTML, CSS, JavaScript, MongoDB, Express, React, NodeJS, GitHub, and others.
-   - Organize our weekly meetup group where we discuss relevant tech topics and current projects.
+   - Organize monthly meetups group for fellow developers.
 <!--END_SECTION:activity-->
 
 

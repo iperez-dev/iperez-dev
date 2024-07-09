@@ -54,7 +54,6 @@ Node.js, and Express.
 ### 🌱 Giving Back
 
 <!-- LATEST-PROJECT-LIST:START -->
-🌱 Founder of Code for Hope:
    - Mentor minority students in their journey as full-stack software developers.
    - Teach on-demand tech skills such as HTML, CSS, JavaScript, MongoDB, Express, React, NodeJS, and others.
    - Organize monthly meetups group for fellow developers.

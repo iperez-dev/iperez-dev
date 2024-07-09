@@ -4,7 +4,7 @@
 
 - 🚢 I’m a full-stack software developer at Bermello Ajamil & Partners (BA).
 - 🌱 Strong experience in JavaScript with a emphasis on React, Node.js, Express, and MongoDB.
-- 🏋️ Targeting front-end and back-end specific roles.
+- 🏋️ AI developer with specific interest in Computer Vision.
 
 ### 🧰 Languages and Tools
 
@@ -27,7 +27,7 @@ Full Stack Web Developer with over 10 years of experience in the technology
 industry. Including 4+ years in JavaScript with a strong emphasis on React,
 Node.js, and Express.
 
-1. 💻 Full-stack Web Developer Experience (4+ years):
+💻 Full-stack Web Developer Experience (4+ years):
    - MongoDB
    - Express
    - React
@@ -37,7 +37,7 @@ Node.js, and Express.
    - CSS
    - HTML
 
-2. 🚀 UX/UI Design Experience (8+ years):
+ 🚀 UX/UI Design Experience (8+ years):
    - HTML
    - CSS
    - WordPress
